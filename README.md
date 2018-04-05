@@ -1,2 +1,3 @@
 # eventdatetimefactory
-EventDateTimeを生成するインターフェース
+EventDateTimeを生成するインターフェース  
+データソース系ライブラリを使うために必要
