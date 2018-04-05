@@ -1,0 +1,2 @@
+# eventdatetimefactory
+EventDateTimeを生成するインターフェース
